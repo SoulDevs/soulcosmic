@@ -3,13 +3,9 @@
 
 I’m a passionate developer crafting scalable web applications, contributing to open-source projects, and exploring the frontiers of AI and machine learning. Currently, I’m sharpening my skills while chasing big dreams—whether it’s building innovative tools or cracking tough coding challenges.
 
----
-
 ## 🌟 What I Do  
 - **Specialties**: JavaScript, MERN Stack, Discord Bot Development  
 - **Currently Learning**: App Development  
-
----
 
 ## 🏆 Achievements  
 - **Developer of Soya Music**  
@@ -18,8 +14,6 @@ I’m a passionate developer crafting scalable web applications, contributing to
   *An advanced Discord music bot with 3M+ users and counting.*  
 - **Lead Developer of Argo**  
   *An advanced Discord music bot with over 1.5M+ users and counting.*  
-
----
 
 ## 🛠️ Tech Stack  
 
@@ -59,8 +53,6 @@ I’m a passionate developer crafting scalable web applications, contributing to
   <td><img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white&labelColor=412991&color=000000&logoSize=20" alt="OpenAI" height="30"/></td>  
 </tr></table>  
 
----
-
 ## 📊 GitHub Stats  
 <p align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=SoulDevs&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="420"/>  
@@ -71,8 +63,6 @@ I’m a passionate developer crafting scalable web applications, contributing to
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoulDevs&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="350"/>  
 </p>  
 
----
-
 ## 🚀 Featured Projects  
 - **Jeevam**  
   *A healthcare platform connecting patients with medical professionals and services.*  
@@ -82,7 +72,6 @@ I’m a passionate developer crafting scalable web applications, contributing to
   *Secure digital vault solution for storing sensitive data with advanced encryption.*  
   [Live Demo](https://eternavaultx.com/)  
 
----
 
 ## 🔗 Let’s Connect  
 <p align="center">  
@@ -97,6 +86,5 @@ I’m a passionate developer crafting scalable web applications, contributing to
   <img src="https://discord.c99.nl/widget/theme-2/543016540790849551.png" alt="Discord Status"/>  
 </p>  
 
----
 
 *“Code is like poetry—when it works, it’s magic.”*
